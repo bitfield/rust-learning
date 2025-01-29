@@ -68,6 +68,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [Why Rust?](https://www.oreilly.com/content/why-rust/) - [Jim Blandy][]
 * :star: [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - [repo](https://github.com/rust-embedded/book) - Rust Embedded WG
 * :star: [The Cargo Book](https://doc.rust-lang.org/stable/cargo/) - [repo](https://github.com/rust-lang/cargo/tree/master/src/doc)
+* [The Secrets of Rust: Tools](https://bitfieldconsulting.com/books/rust-tools) - [John Arundel](https://bitfieldconsulting.com/)
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials-second-edition) -  Ivo Balbaert
 * [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][], Jason Orendorff
